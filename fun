@@ -89,4 +89,4 @@ for f in range(FRAMES):
 out_path = "gift.gif"
 frames[0].save(out_path, save_all=True, append_images=frames[1:], duration=70, loop=0, optimize=True)
 print(f"Saved {out_path}")
-# ...existing code...
+# ...existing code...gi
